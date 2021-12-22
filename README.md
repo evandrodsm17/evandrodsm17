@@ -5,7 +5,7 @@
 - 🌱 Estudando Javascript na Udemy e Nodejs através da plataforma Celke.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17"/>
 </div>
 <div style="display:inline_block"><br>
