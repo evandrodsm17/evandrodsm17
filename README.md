@@ -1,4 +1,4 @@
-### Bem vindos, amigos!👋
+### Bem vindos ao meu repositório!👋
 
 - 🔭 Atualmente estou buscando uma oportunidade de emprego para atuar como desenvolvedor.
 - 🌱 Estudando Java na Alura através do programa Oracle Next Education.
