@@ -4,8 +4,6 @@
 - 🌱 Estudando Java na Alura através do programa Oracle Next Education.
 - 🌱 Estudando Javascript na Udemy e Nodejs através da plataforma Celke.
 
-[![Anurag's GitHub stats]()
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17"/>
