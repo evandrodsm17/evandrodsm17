@@ -1,8 +1,9 @@
 ### Bem vindos ao meu repositório!👋
 
-- 🔭 Atualmente estou buscando uma oportunidade de emprego para atuar como desenvolvedor.
-- 🌱 Estudando Java na Alura através do programa Oracle Next Education.
-- 🌱 Estudando Javascript na Udemy e Nodejs através da plataforma Celke.
+- 🔭 Atualmente estou buscando uma oportunidade de emprego para atuar como Desenvolvedor.
+- 🌱 Desenvolvendo meu primeiro sistema como Desenvolvedor Web Fullstack.
+- 🌱 Estudando os processos do setor de saúde pública, visando desenvolver sistemas por demanda.
+- 🌱 Atualmente utilizando as tecnologias: NODEJS, REACTJS, BOOTSTRAP, MYSQL.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
