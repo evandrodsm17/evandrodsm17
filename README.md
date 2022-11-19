@@ -1,6 +1,6 @@
 ### Bem vindos ao meu repositório!👋
 
-- 🔭 Atualmente estou buscando uma oportunidade de emprego para atuar como Desenvolvedor.
+- 🔭 Atualmente estou disponível para trabalhar como Desenvolvedor Web.
 - 🌱 Desenvolvendo meu primeiro sistema como Desenvolvedor Web Fullstack.
 - 🌱 Estudando os processos do setor de saúde pública, visando desenvolver sistemas por demanda.
 - 🌱 Atualmente utilizando as tecnologias: NODEJS, REACTJS, BOOTSTRAP, MYSQL.
