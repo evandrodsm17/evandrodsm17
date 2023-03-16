@@ -1,9 +1,8 @@
 ### Bem vindos ao meu repositório!👋
 
-- 🔭 Atualmente estou disponível para trabalhar como Desenvolvedor Web.
-- 🌱 Desenvolvendo meu primeiro sistema como Desenvolvedor Web Fullstack.
-- 🌱 Estudando os processos do setor de saúde pública, visando desenvolver sistemas por demanda.
-- 🌱 Atualmente utilizando as tecnologias: NODEJS, REACTJS, BOOTSTRAP, MYSQL.
+- 🔭 Analista de Sistemas II no SESI - Bahia.
+- 🌱 Sustentação em T.I
+- 🌱 BPMN, BPMS e RPA.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
