@@ -1,8 +1,8 @@
 ### Bem vindos ao meu repositório!👋
 
-- 🔭 Analista de Sistemas II no SESI - Bahia.
-- 🌱 Sustentação em T.I
-- 🌱 BPMN, BPMS e RPA.
+- 🔭 Analista de Sistemas Pleno.
+- 🌱 Javascript, PHP, SQL Server
+- 🌱 BPMN, BPMS
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
