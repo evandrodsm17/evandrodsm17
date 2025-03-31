@@ -1,7 +1,8 @@
 ### Bem vindos ao meu repositório!👋
 
 - 🔭 Analista de Sistemas Pleno.
-- 🌱 Javascript, PHP, SQL Server
+- 🌱 Javascript (Node, React), PHP (Codeigniter, Laravel)
+- 🌱 SQL Server, MySQL
 - 🌱 BPMN, BPMS
 
 <div>
