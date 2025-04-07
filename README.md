@@ -1,9 +1,9 @@
 ### Bem vindos ao meu repositório!👋
 
-- 🔭 Analista de Sistemas Pleno.
-- 🌱 Javascript (Node, React), PHP (Codeigniter, Laravel)
-- 🌱 SQL Server, MySQL
-- 🌱 BPMN, BPMS
+- Javascript (NodeJS, React)
+- PHP (Codeigniter, Laravel)
+- SQL (SQL Server, MySQL)
+- BPMN, BPMS
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrodsm17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
